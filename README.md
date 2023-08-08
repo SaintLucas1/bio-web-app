@@ -1,7 +1,7 @@
 # bio-web-app
 # My Personal VCard Project
 
-Welcome to my personal VCard project! This is my very first project that showcases my skills in HTML, CSS, and JavaScript. Through this project, I aim to introduce myself, display my previous projects, and provide ways to connect with me.
+Welcome to my personal VCard project! This is my very first project that showcases my skills in HTML, and CSS Through this project, I aim to introduce myself, display my previous projects, and provide ways to connect with me.
 
 ## Table of Contents
 
