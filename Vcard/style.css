@@ -29,6 +29,8 @@ body {
 
  .profile {
     border-radius: 50%;
+    width: 300px;
+    height: auto;
  }
 
  .eme {
